@@ -171,3 +171,13 @@ ADGM-Corporate_Agent/
 
 ## License
 This work is provided for evaluation purposes only (non-commercial, non-production). Rights remain with the commissioning organization. Do not redistribute without permission.
+
+---
+
+## 📬 Contact Me
+
+- **LinkedIn**: [Dhruv Suvagiya](https://www.linkedin.com/in/dhruv-suvagiya/)
+- **GitHub**: [Dhruv-2004](https://github.com/Dhruv-2004)
+- **Email**: [dhruvsuvagiya21@gmail.com](mailto:dhruvsuvagiya21@gmail.com)
+
+---
