@@ -10,7 +10,7 @@ A fast, AI-powered reviewer for Abu Dhabi Global Market (ADGM) corporate documen
 This project was developed as a take-home assignment for the AI Engineer Intern position at 2Cents Capital. It is a production-grade solution that meets core requirements outlined in the task sheet.
 
 ## 🚀 Live Demo
-[https://drive.google.com/file/d/1PA21GgUWmIsb_FW7VyfP1D9IDNVJOMcH/view?usp=sharing]
+Drive Link : [https://drive.google.com/file/d/1U_P-ZB-bjOkaaRwbRkyO3jvuoggIHfJW/view?usp=sharing]
 
 > Screenshots
 > <img width="1582" height="967" alt="Screenshot 2025-08-11 at 10 00 55 AM" src="https://github.com/user-attachments/assets/67370919-01b9-401b-9e53-463ad396b2be" />
