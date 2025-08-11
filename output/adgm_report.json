@@ -1,0 +1,317 @@
+{
+  "process": "Company Incorporation (Private Company)",
+  "documents_uploaded": 3,
+  "required_documents": 5,
+  "missing_documents": [
+    "Articles of Association",
+    "Board Resolution",
+    "Incorporation Application Form",
+    "UBO Declaration Form",
+    "Register of Members and Directors"
+  ],
+  "files": [
+    {
+      "filename": "amendment_of_articles_resolution.docx",
+      "document_type": "Shareholder Resolution",
+      "structure_summary": {
+        "num_headings": 0,
+        "num_paragraphs": 11,
+        "preview": [
+          {
+            "type": "paragraph",
+            "text": "RESOLUTION OF THE SHAREHOLDERS"
+          },
+          {
+            "type": "paragraph",
+            "text": "OF"
+          },
+          {
+            "type": "paragraph",
+            "text": "{insert company name}"
+          },
+          {
+            "type": "paragraph",
+            "text": "DATED"
+          },
+          {
+            "type": "paragraph",
+            "text": "{insert date}"
+          },
+          {
+            "type": "paragraph",
+            "text": "We, being the shareholders of {insert Company Name], a [private company limited by shares/restricted scope company] organised and existing under the laws of Abu Dhabi Global Market, with registration number [xxxxxxxxx] having its registered address at [insert registered office address]  (the “Company”), hereby consent to the adoption of the following resolutions:"
+          },
+          {
+            "type": "paragraph",
+            "text": "AMENDMENTS TO THE ARTICLES OF ASSOCIATION:"
+          },
+          {
+            "type": "paragraph",
+            "text": "RESOLVED, that the draft articles of association annexed to this resolution be adopted as the articles of association of the Company in substitution for, and to the exclusion of, the Company’s existing articles of association."
+          },
+          {
+            "type": "paragraph",
+            "text": "FURTHER RESOVED, that {insert authorised persons name(s)} is/are, and each acting alone is, hereby authorized to do and perform any and all such acts, including execution of any and all documents, as said person shall deem necessary or advisable, to carry out the purposes of the foregoing resolutions."
+          },
+          {
+            "type": "paragraph",
+            "text": "_____________________________\t\t\t_________________________________"
+          }
+        ]
+      },
+      "issues_found": [
+        {
+          "document": "amendment_of_articles_resolution.docx",
+          "section": "Authorization",
+          "issue": "The resolution grants excessively broad authority to the authorized persons to execute any and all documents deemed necessary or advisable without specifying limitations or oversight. This lacks the necessary precision and control required for significant corporate actions.",
+          "severity": "High",
+          "suggestion": "Restrict the authorization to specific actions related to the amendment of the articles of association, clearly defining the scope of permitted actions and possibly including an approval mechanism for significant decisions beyond routine matters.  Ensure compliance with ADGM's requirements for corporate governance and authorization processes."
+        },
+        {
+          "document": "amendment_of_articles_resolution.docx",
+          "section": "Shareholder Approval",
+          "issue": "The excerpt lacks information regarding the required quorum and voting threshold for the adoption of the resolutions.  The provided text only states that the signatories are shareholders but doesn't clarify if they represent the required voting percentage needed for approval under the Company's Articles or ADGM law.",
+          "severity": "High",
+          "suggestion": "The resolution must clearly state the quorum and voting requirements met for the adoption of the amendments to the articles of association in accordance with the company's articles and any applicable ADGM regulations.  Evidence of compliance with the quorum and voting threshold, such as voting records, must be attached."
+        },
+        {
+          "document": "amendment_of_articles_resolution.docx",
+          "section": "Articles of Association",
+          "issue": "The resolution refers to 'annexed' articles but doesn't specify whether these articles comply with all applicable ADGM regulations, including but not limited to, rules on corporate governance, share capital and other stipulations for private companies limited by shares/restricted scope companies.",
+          "severity": "High",
+          "suggestion": "Ensure the annexed articles of association explicitly comply with all relevant ADGM rules and regulations. A legal opinion confirming compliance should be obtained and attached to the resolution."
+        },
+        {
+          "document": "amendment_of_articles_resolution.docx",
+          "section": null,
+          "issue": "Missing required document for process 'Company Incorporation (Private Company)': Articles of Association",
+          "severity": "High",
+          "suggestion": "Please upload this document to satisfy the ADGM checklist."
+        },
+        {
+          "document": "amendment_of_articles_resolution.docx",
+          "section": null,
+          "issue": "Missing required document for process 'Company Incorporation (Private Company)': Board Resolution",
+          "severity": "High",
+          "suggestion": "Please upload this document to satisfy the ADGM checklist."
+        },
+        {
+          "document": "amendment_of_articles_resolution.docx",
+          "section": null,
+          "issue": "Missing required document for process 'Company Incorporation (Private Company)': Incorporation Application Form",
+          "severity": "High",
+          "suggestion": "Please upload this document to satisfy the ADGM checklist."
+        },
+        {
+          "document": "amendment_of_articles_resolution.docx",
+          "section": null,
+          "issue": "Missing required document for process 'Company Incorporation (Private Company)': UBO Declaration Form",
+          "severity": "High",
+          "suggestion": "Please upload this document to satisfy the ADGM checklist."
+        },
+        {
+          "document": "amendment_of_articles_resolution.docx",
+          "section": null,
+          "issue": "Missing required document for process 'Company Incorporation (Private Company)': Register of Members and Directors",
+          "severity": "High",
+          "suggestion": "Please upload this document to satisfy the ADGM checklist."
+        }
+      ]
+    },
+    {
+      "filename": "incorporation_resolution_template.docx",
+      "document_type": "Shareholder Resolution",
+      "structure_summary": {
+        "num_headings": 0,
+        "num_paragraphs": 21,
+        "preview": [
+          {
+            "type": "paragraph",
+            "text": "RESOLUTION OF INCORPORATING SHAREHOLDERS"
+          },
+          {
+            "type": "paragraph",
+            "text": "OF"
+          },
+          {
+            "type": "paragraph",
+            "text": "[Insert proposed company name]"
+          },
+          {
+            "type": "paragraph",
+            "text": "DATED"
+          },
+          {
+            "type": "paragraph",
+            "text": "[Insert date]"
+          },
+          {
+            "type": "paragraph",
+            "text": "We, the undersigned, being the incorporating shareholders, resolve to incorporate a private company limited by shares in the Abu Dhabi Global Market under the name of  [insert proposed company name] (or any other name approved by ADGM Registration Authority), in accordance with the applicable regulations and sub-ordinate rules of Abu Dhabi Global Market (the “Company”). The incorporating shareholders duly adopted the resolution set forth below on [insert date]:"
+          },
+          {
+            "type": "paragraph",
+            "text": "IT WAS RESOLVED, to appoint the officers of the company upon incorporation as follows."
+          },
+          {
+            "type": "paragraph",
+            "text": "Appointment of Authorised Signatory(ies)"
+          },
+          {
+            "type": "paragraph",
+            "text": "Appointment of Director(s)"
+          },
+          {
+            "type": "paragraph",
+            "text": "Appointment of Secretary(ies)"
+          }
+        ]
+      },
+      "issues_found": [
+        {
+          "document": "incorporation_resolution_template.docx",
+          "section": "Appointment of Officers",
+          "issue": "The resolution mentions the appointment of officers (directors, secretary, authorized signatory) but lacks specific details about these individuals.  This is insufficient for compliance.",
+          "severity": "High",
+          "suggestion": "The resolution must provide full details of each officer including their names, addresses, nationalities, and other relevant information as required by the ADGM Companies Regulations.  Reference specific ADGM regulations on director and officer appointments."
+        },
+        {
+          "document": "incorporation_resolution_template.docx",
+          "section": "Adoption of Articles",
+          "issue": "The resolution states that the Articles of Association are adopted, but doesn't specify that they comply with ADGM requirements.",
+          "severity": "High",
+          "suggestion": "Explicitly state that the Articles of Association comply with all applicable ADGM regulations.  Attach the Articles of Association to the resolution. Reference specific ADGM regulations on Articles of Association."
+        },
+        {
+          "document": "incorporation_resolution_template.docx",
+          "section": "Authorised Share Capital & Share Capital",
+          "issue": "The resolution mentions the authorised and issued share capital amounts but lacks detail on the share classes, rights attached to each share class, and the number of shares.",
+          "severity": "High",
+          "suggestion": "Provide a comprehensive breakdown of the share capital, including the number of shares, classes of shares, par value (if any), and the rights attached to each class of shares.  This information is crucial for compliance and to prevent future disputes. Reference specific ADGM regulations on share capital structure."
+        },
+        {
+          "document": "incorporation_resolution_template.docx",
+          "section": "Shareholders",
+          "issue": "The resolution mentions the issued share capital structure but provides no details about the shareholders themselves.",
+          "severity": "High",
+          "suggestion": "The resolution must clearly identify each shareholder with their full name, address, nationality, and the number of shares held by each. Reference specific ADGM regulations on shareholder disclosure."
+        },
+        {
+          "document": "incorporation_resolution_template.docx",
+          "section": "Appointment of Signatory for Incorporation Purposes",
+          "issue": "While an authorized signatory is appointed, there’s no mention of any limitations on their authority or specific powers.",
+          "severity": "Medium",
+          "suggestion": "Specify the extent of the authorized signatory's powers.  Consider including a power of attorney if necessary, specifying their authority in line with ADGM requirements.  Reference specific ADGM regulations on authorized signatories."
+        }
+      ]
+    },
+    {
+      "filename": "employment_contract_ER_2024.docx",
+      "document_type": "Employment Contract",
+      "structure_summary": {
+        "num_headings": 22,
+        "num_paragraphs": 136,
+        "preview": [
+          {
+            "type": "paragraph",
+            "text": "Disclaimer: This Employment Contract is not to be deemed, considered or relied upon as legal advice and should not be treated as a substitute for specific advice concerning individual employment situations obtained from your own independent legal advisors. This Employment Contract sets out the minimum employment standards applicable in ADGM pursuant to ADGM Employment Regulations of 2024 (which may be amended from time to time without notification). The Employer may provide terms and conditions of employment that are more favourable to the Employee than those required by the ADGM Employment Regulations of 2024, which can be found here."
+          },
+          {
+            "type": "paragraph",
+            "text": "Instructions"
+          },
+          {
+            "type": "paragraph",
+            "text": "Please refer to the following instructions to aid in finalizing your employment contract:"
+          },
+          {
+            "type": "paragraph",
+            "text": "Any bolded text in these highlighted square brackets, [   ], must be reviewed by the Employer. The Employer will need to choose between different options provided or include information specific to the employment relationship."
+          },
+          {
+            "type": "paragraph",
+            "text": "Once the Employer has included the correct information or has made a selection on the text options provided, please make sure to delete any square brackets and remove any highlights as well as any instructive text."
+          },
+          {
+            "type": "paragraph",
+            "text": "The footnotes are there to provide additional information regarding certain clauses or terms. Please make sure they are deleted prior to signing the contract."
+          },
+          {
+            "type": "paragraph",
+            "text": "Before signing this contract, please ensure that:"
+          },
+          {
+            "type": "paragraph",
+            "text": "All inserted information is correct (*if you have added any new clauses or deleted the clauses provided, please ensure that cross-references are correctly updated)"
+          },
+          {
+            "type": "paragraph",
+            "text": "All highlights are removed"
+          },
+          {
+            "type": "paragraph",
+            "text": "All footnotes are deleted"
+          }
+        ]
+      },
+      "issues_found": [
+        {
+          "document": "employment_contract_ER_2024.docx",
+          "section": "General",
+          "issue": "The contract uses bracketed placeholders and instructional text throughout, indicating it's a template and not a finalized agreement.  This is non-compliant as it's not a complete and final contract.",
+          "severity": "High",
+          "suggestion": "Remove all bracketed placeholders, instructional text, footnotes, and highlighted text before signing.  Ensure all information is correctly inserted and cross-references are updated if clauses are added or deleted."
+        },
+        {
+          "document": "employment_contract_ER_2024.docx",
+          "section": "Employment Term",
+          "issue": "The contract offers two options for employment term: unlimited or limited (with automatic renewal).  The choice must be made and the irrelevant option removed before signing.",
+          "severity": "High",
+          "suggestion": "Select either the unlimited or limited employment clause, delete the other, and remove all bracketed text."
+        },
+        {
+          "document": "employment_contract_ER_2024.docx",
+          "section": "Hours of Employment",
+          "issue": "The contract presents two options for overtime pay, with a footnote for further information.  The footnote must be removed, and a definitive clause regarding overtime pay must be chosen.",
+          "severity": "High",
+          "suggestion": "Select either the clause excluding overtime pay or the clause including it, delete the other, and remove the footnote."
+        },
+        {
+          "document": "employment_contract_ER_2024.docx",
+          "section": "Place of Employment",
+          "issue": "Similar to other sections, this section offers two options (remote or on-site) with bracketed text and instructional notes.  This needs to be finalized before signing.",
+          "severity": "High",
+          "suggestion": "Choose one option (remote or on-site), delete the other, and remove all bracketed text and instructions."
+        },
+        {
+          "document": "employment_contract_ER_2024.docx",
+          "section": "Probationary Period",
+          "issue": "While the probationary period clause is present, the duration is indicated with a placeholder '[insert number]'. This must be filled in with a specific number.",
+          "severity": "High",
+          "suggestion": "Replace '[insert number]' with the specific number of months for the probationary period."
+        },
+        {
+          "document": "employment_contract_ER_2024.docx",
+          "section": "Company Policies",
+          "issue": "The contract states that the Employee Handbook does not form part of the contract, but it references disciplinary and grievance procedures within the handbook.  This creates ambiguity.",
+          "severity": "Medium",
+          "suggestion": "Clarify the relationship between the contract and the Employee Handbook.  Consider incorporating relevant portions of the Handbook into the contract or ensuring the Handbook explicitly references and supports the contract's provisions."
+        },
+        {
+          "document": "employment_contract_ER_2024.docx",
+          "section": "General",
+          "issue": "The disclaimer stating the contract is not legal advice is insufficient to address the numerous incomplete sections requiring specific choices and details.",
+          "severity": "Medium",
+          "suggestion": "While a disclaimer is appropriate, the primary concern is the incomplete and template nature of the contract.  The focus should be on finalizing the contract and removing all placeholder information."
+        },
+        {
+          "document": "employment_contract_ER_2024.docx",
+          "section": null,
+          "issue": "Notice period not specified.",
+          "severity": "Medium",
+          "suggestion": "Specify notice periods for termination by employer and employee."
+        }
+      ]
+    }
+  ]
+}

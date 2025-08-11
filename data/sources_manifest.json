@@ -1,0 +1,92 @@
+{
+    "sources": [
+      {
+        "id": "companies_regulations_2020",
+        "title": "ADGM Companies Regulations 2020 (as amended)",
+        "type": "regulation",
+        "path": "adgm_sources/company_incorporation/companies_regulations_2020.pdf",
+        "citation": "ADGM Companies Regulations 2020",
+        "scope": ["Company Incorporation", "Corporate Governance", "AoA", "MoA"]
+      },
+      {
+        "id": "checklist_branch_non_fin",
+        "title": "ADGM RA Checklist - Branch (Non-Financial Services)",
+        "type": "checklist",
+        "path": "adgm_sources/company_incorporation/checklist_branch_non_financial.pdf",
+        "citation": "ADGM RA Checklist (Branch - Non-Financial Services, 2023-12-28)",
+        "scope": ["Company Incorporation"]
+      },
+      {
+        "id": "checklist_private_company_lbg",
+        "title": "ADGM RA Checklist - Private Company Limited by Guarantee (Non-Financial Services)",
+        "type": "checklist",
+        "path": "adgm_sources/company_incorporation/checklist_private_company.pdf",
+        "citation": "ADGM RA Checklist (Private Company Limited by Guarantee, 2023-12-28)",
+        "scope": ["Company Incorporation"]
+      },
+      {
+        "id": "incorporation_resolution_template",
+        "title": "Resolution for Incorporation (LTD – Multiple Shareholders)",
+        "type": "template",
+        "path": "adgm_sources/company_incorporation/incorporation_resolution_template.docx",
+        "citation": "ADGM RA Resolution for Incorporation (Multiple Shareholders, LTD)",
+        "scope": ["Company Incorporation"]
+      },
+      {
+        "id": "amendment_of_articles_resolution",
+        "title": "Shareholder Resolution – Amendment of Articles",
+        "type": "template",
+        "path": "adgm_sources/company_incorporation/amendment_of_articles_resolution.docx",
+        "citation": "ADGM RA Shareholder Resolution – Amendment of Articles",
+        "scope": ["Corporate Governance", "AoA"]
+      },
+      {
+        "id": "employment_regulations_2024",
+        "title": "ADGM Employment Regulations 2024",
+        "type": "regulation",
+        "path": "adgm_sources/hr_employment/employment_regulations_2024.pdf",
+        "citation": "ADGM Employment Regulations 2024",
+        "scope": ["Employment Contracts"]
+      },
+      {
+        "id": "employment_contract_template_2024",
+        "title": "ADGM Standard Employment Contract Template (2024, ER 2024)",
+        "type": "template",
+        "path": "adgm_sources/hr_employment/employment_contract_ER_2024.docx",
+        "citation": "ADGM Standard Employment Contract Template – ER 2024 (Feb 2025)",
+        "scope": ["Employment Contracts"]
+      },
+      {
+        "id": "data_protection_regulations_2021",
+        "title": "ADGM Data Protection Regulations 2021",
+        "type": "regulation",
+        "path": "adgm_sources/data_protection/data_protection_regulations_2021.pdf",
+        "citation": "ADGM Data Protection Regulations 2021",
+        "scope": ["Data Protection", "Privacy"]
+      },
+      {
+        "id": "appropriate_policy_document_template",
+        "title": "Appropriate Policy Document Template (ADGM DPR 2021)",
+        "type": "template",
+        "path": "adgm_sources/data_protection/appropriate_policy_document_template.pdf",
+        "citation": "ADGM Office of Data Protection – Appropriate Policy Document Template",
+        "scope": ["Data Protection", "Privacy"]
+      },
+      {
+        "id": "annual_accounts_guidance",
+        "title": "ADGM Annual Accounts & Filings Guidance",
+        "type": "guidance",
+        "path": "adgm_sources/compliance_filings/annual_accounts_guidance.pdf",
+        "citation": "ADGM – Obligations of Registered Entities – Annual Filings Guidance",
+        "scope": ["Compliance", "Annual Filings"]
+      },
+      {
+        "id": "letters_and_permits_guidance",
+        "title": "ADGM Letters and Permits Guidance",
+        "type": "guidance",
+        "path": "adgm_sources/compliance_filings/letters_and_permits_guidance.pdf",
+        "citation": "ADGM – Post-Registration Services – Letters and Permits Guidance",
+        "scope": ["Compliance", "Company Incorporation"]
+      }
+    ]
+  }
