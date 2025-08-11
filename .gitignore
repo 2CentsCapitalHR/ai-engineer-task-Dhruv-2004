@@ -22,3 +22,6 @@ data/adgm_sources/**
 .DS_Store
 .idea/
 .vscode/
+
+# Include ADGM sources for evaluation
+!data/adgm_sources/**
