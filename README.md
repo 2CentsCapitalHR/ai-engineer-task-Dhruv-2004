@@ -9,9 +9,20 @@ A fast, AI-powered reviewer for Abu Dhabi Global Market (ADGM) corporate documen
 
 This project was developed as a take-home assignment for the AI Engineer Intern position at 2Cents Capital. It is a production-grade solution that meets core requirements outlined in the task sheet.
 
-> Screenshot (placeholder)
->
-> ![App UI](docs/screenshot-ui.png)
+## 🚀 Live Demo
+[]
+
+> Screenshots
+> <img width="1582" height="967" alt="Screenshot 2025-08-11 at 10 00 55 AM" src="https://github.com/user-attachments/assets/67370919-01b9-401b-9e53-463ad396b2be" />
+> <img width="1582" height="967" alt="Screenshot 2025-08-11 at 10 01 26 AM" src="https://github.com/user-attachments/assets/7ab52d64-2840-49df-b3ac-d6682425b16b" />
+> <img width="1582" height="967" alt="Screenshot 2025-08-11 at 10 02 51 AM" src="https://github.com/user-attachments/assets/733b04a4-8655-4c9b-9bd8-15be9b4b6462" />
+> <img width="1582" height="967" alt="Screenshot 2025-08-11 at 10 03 01 AM" src="https://github.com/user-attachments/assets/04080f3f-b840-4440-bf4f-f5a1869f792e" />
+> <img width="1582" height="967" alt="Screenshot 2025-08-11 at 10 04 07 AM" src="https://github.com/user-attachments/assets/477a96c6-d17c-4377-86f4-3ea902f085d9" />
+> <img width="1582" height="967" alt="Screenshot 2025-08-11 at 10 04 14 AM" src="https://github.com/user-attachments/assets/0dfb7a77-f310-4908-b058-38e7c856eef9" />
+> <img width="1582" height="967" alt="Screenshot 2025-08-11 at 10 21 59 AM" src="https://github.com/user-attachments/assets/e707d0f3-65d4-4341-aa14-9447071de3a1" />
+> <img width="1527" height="967" alt="Screenshot 2025-08-11 at 10 22 43 AM" src="https://github.com/user-attachments/assets/4f6e2217-70f8-486c-aee6-8ee899084e76" />
+
+
 
 ### Why this matters
 Preparing filings for Abu Dhabi Global Market (ADGM) can be tedious: many document types, process checklists, and subtle compliance rules. Manual review is slow and error-prone—especially for teams working under deadlines.
