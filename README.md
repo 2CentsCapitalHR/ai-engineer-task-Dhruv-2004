@@ -52,6 +52,11 @@ The ADGM Corporate Agent analyzes .docx legal documents, checks them against ADG
 - Optional Q&A panel using the same RAG knowledge base
 
 ---
+## Flow Chart
+<img width="1063" height="1455" alt="ADGM_workflow_diagram" src="https://github.com/user-attachments/assets/8c904348-d3e5-4132-9607-ea2cea2bc6cd" />
+
+
+---
 
 ## Installation & setup
 
